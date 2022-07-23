@@ -47,7 +47,7 @@ def file_process():
 
 
 if __name__ == '__main__':
-    app.secret_key = "wnsdn"
+    app.secret_key = "your key"
     app.run(debug = True)
 
 
